@@ -1,0 +1,13 @@
+body{
+    background-color:aqua
+}
+
+#header{
+    background-color: azure;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold
+    padding: 35px 0;
+    margin: 10 px;
+    
+}
